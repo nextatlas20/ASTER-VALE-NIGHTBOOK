@@ -1,0 +1,9 @@
+telescope_id,label,site,active,revision
+AV-01,Northstar 1,Aster Ridge,yes,1
+AV-02,Helix Array,Cinder Mesa,yes,1
+AV-03,Sable Mirror,Aster Ridge,yes,1
+AV-04,Retired Scout,Cinder Mesa,no,3
+AV-02,Helix Array legacy,Cinder Mesa,no,1
+AV-03,Sable Mirror,Aster Ridge,yes,2
+AV-05,Bad Revision,Aster Ridge,yes,zero
+AV-01,Northstar One,Aster Ridge,yes,2

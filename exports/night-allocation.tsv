@@ -1,0 +1,8 @@
+telescope_id	label	request_id	allocation_rank	decision	conflict	program	start_at	end_at	duration_minutes	priority	submitted_at
+AV-01	Northstar One	RQ-1001	1	accepted		Vela transit	2084-09-18T18:30:00Z	2084-09-18T20:00:00Z	90	5	2084-09-18T09:00:00Z
+AV-01	Northstar One	RQ-1002	2	rejected	blackout:BL-9001	Red dwarf flare watch	2084-09-18T19:45:00Z	2084-09-18T21:00:00Z	75	4	2084-09-18T09:30:00Z
+AV-01	Northstar One	RQ-1003	3	accepted		Kuiper arc mosaic	2084-09-18T20:30:00Z	2084-09-18T22:30:00Z	120	3	2084-09-18T10:00:00Z
+AV-01	Northstar One	RQ-1004	4	rejected	request:RQ-1003	Dust lane colors	2084-09-18T21:30:00Z	2084-09-18T23:00:00Z	90	2	2084-09-18T10:15:00Z
+AV-03	Sable Mirror	RQ-3001	1	accepted		Aurora tomography	2084-09-19T00:00:00Z	2084-09-19T01:00:00Z	60	5	2084-09-18T07:00:00Z
+AV-03	Sable Mirror	RQ-3002	2	rejected	blackout:BL-9002	Magnetar follow-up	2084-09-19T00:30:00Z	2084-09-19T01:30:00Z	60	4	2084-09-18T07:30:00Z
+AV-03	Sable Mirror	RQ-3003	3	rejected	blackout:BL-9002	Exoplanet ingress	2084-09-19T01:30:00Z	2084-09-19T02:30:00Z	60	3	2084-09-18T07:45:00Z
